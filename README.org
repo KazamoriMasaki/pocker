@@ -1,4 +1,4 @@
-#+TITLE: Pocker, a lightweight reimplementation of docker (hope it to be!) written in perl
+#+TITLE: Pocker, a lightweight reimplementation of docker (hope it can be!) written in perl
 * Mission
 * Implementation
 * Usage
